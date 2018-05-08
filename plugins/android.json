@@ -36,6 +36,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "org.myapp.sample"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.myapp.sample"
     }
   },
   "dependent_plugins": {
